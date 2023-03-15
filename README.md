@@ -3,6 +3,8 @@
 </div>
 
 ### <div align="center" width="200">I am Franck, a French Senior DevOps Engineer 🇫🇷</div>
+<div align="center">
+I'm based in France, at Lille, and currently working at  <a href="https://www.adeo.com/">Adeo</a>.</div>
 
 <p align="center">
     <a href="mailto:franckdegraeve@gmail.com">
